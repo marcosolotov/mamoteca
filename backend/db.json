@@ -4,54 +4,63 @@
       "id": 1,
       "conteudo": "Formulario reativo",
       "autoria": "Angular",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "conteudo": "Após o lançamento de Grand Theft Auto V em setembro de 2013, o presidente da Rockstar North, Leslie Benzies, disse que a empresa tinha \"algumas ideias\" para o próximo jogo da franquia Grand Theft Auto.[18] Em março de 2018, o The Know relatou que o jogo, de codinome Project Americas, seria ambientado principalmente em uma Vice City reformulada e parcialmente na América do Sul, com uma protagonista feminina jogável.[19] Em abril de 2020, Jason Schreier, da Kotaku, relatou que o jogo estava \"no início de seu desenvolvimento\" e idealizado para ser \"um lançamento de tamanho moderado\" que se expandiria ao longo do tempo, para evitar o crunch (horas extras obrigatórias de trabalho) de desenvolvimento de seus antecessores.[20] Em julho de 2021, o jornalista Tom Henderson afirmou que o jogo se passaria em uma Vice City moderna, seu mapa poderia evoluir ao longo do tempo de modo similar a Fortnite, e que não seria lançado até 2025;[21][22] Schreier reafirmou esses relatos.[23] Escrevendo para a Bloomberg News em julho de 2022, Schreier relatou que o jogo, intitulado Grand Theft Auto VI, entrou em desenvolvimento em 2014 e contaria com dois protagonistas influenciados por Bonnie e Clyde, incluindo uma mulher latina; ele afirmou que os desenvolvedores estavam subvertendo cautelosamente a tendência da série de fazer piadas sobre grupos marginalizados.[24][25]",
       "autoria": "Angular",
       "modelo": "modelo2",
+      "favorito": true,
       "id": 2
     },
     {
       "conteudo": "Formulario reativo",
       "autoria": "Angular",
       "modelo": "modelo3",
+      "favorito": true,
       "id": 3
     },
     {
       "conteudo": "Formulario reativo",
       "autoria": "Angular",
       "modelo": "modelo2",
+      "favorito": true,
       "id": 4
     },
     {
       "conteudo": "Formulario reativo",
       "autoria": "Angular",
       "modelo": "modelo1",
+      "favorito": true,
       "id": 5
     },
     {
       "conteudo": "Teste",
       "autoria": "pagi",
       "modelo": "modelo1",
+      "favorito": true,
       "id": 6
     },
     {
       "conteudo": "teste 2",
       "autoria": "pag 2",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 7
     },
     {
       "conteudo": "fsadfsad",
       "autoria": "fsadf",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 8
     },
     {
       "conteudo": "Comprarei o Peugeot 208 em 2025. Ano da prosperidade.",
       "autoria": "marco",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 9
     }
   ]
